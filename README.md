@@ -1,0 +1,3 @@
+# Project Description
+
+This project aims to recreate the visual functioning of a Galton board using Python. The logic is the same as in the physical Galton board; we simulate a number of pearls falling though a series of pegs. Each pearl, as it hits the peg, has an equal probability of falling to the right or to the left of the peg. After all the pearls have fallen through the pegs, we expect to see a shape that resembles the density of a normal distribution.
